@@ -78,7 +78,7 @@ First downlaod the tarball from https://sourceforge.net/projects/ngspice/files/n
  To install, open terminal;
  ```
  $  git clone git://opencircuitdesign.com/open_pdks
- $  open_pdks
+ $  cd open_pdks
  $	./configure --enable-sky130-pdk
  $  make
  $  sudo make install
